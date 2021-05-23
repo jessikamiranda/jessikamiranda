@@ -4,7 +4,7 @@ Tenho 17 anos e curso técnico em Desenvolvimento na ETEC Ermelinda Giannini Tei
 Estudo para me tornar uma desenvolvedora web e mobile e também amo o mundo do design de interfaces.
 
 ## Technologies
-- FrontEnd com HTML, CSS, React Native
+- Front-End com HTML, CSS, React Native
 - UI Design com Figma
 
 #### Languages and Tools:
