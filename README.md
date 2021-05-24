@@ -1,6 +1,6 @@
 # [Jessika Miranda](https://www.linkedin.com/in/jessika-miranda/)
 ## About Me
-Tenho 17 anos e curso técnico em Desenvolvimento na ETEC Ermelinda Giannini Teixeira.<br>
+Tenho 17 anos e curso técnico em Desenvolvimento de Sistemas na ETEC Ermelinda Giannini Teixeira.<br>
 Estudo para me tornar uma desenvolvedora web e mobile e amo o mundo do design de interfaces.
 
 ## Technologies
