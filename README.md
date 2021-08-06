@@ -1,4 +1,10 @@
-# [Jessika Miranda](https://www.linkedin.com/in/jessika-miranda/)
+# Jessika Miranda
+<div>
+  <a href="https://github.com/jessikamiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessikamiranda&show_icons=true&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikamiranda&layout=compact&langs_count=7&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A"/>
+</div>
+
 ## About Me
 Tenho 17 anos e curso técnico em Desenvolvimento de Sistemas na ETEC Ermelinda Giannini Teixeira.<br>
 Estudo para me tornar uma desenvolvedora web e mobile e amo o mundo do design de interfaces.
@@ -14,3 +20,5 @@ Estudo para me tornar uma desenvolvedora web e mobile e amo o mundo do design de
 - [LinkedIn](https://www.linkedin.com/in/jessika-miranda/)
 - [E-mail](mailto:jeessika.miranda@gmail.com)
 - [Instagram Pessoal](https://www.instagram.com/jessikamiraanda/)
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
