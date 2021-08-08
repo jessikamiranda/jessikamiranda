@@ -1,8 +1,8 @@
 # Jessika Miranda
 <div align="center">
   <a href="https://github.com/jessikamiranda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessikamiranda&show_icons=true&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikamiranda&layout=compact&langs_count=7&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessikamiranda&show_icons=true&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikamiranda&layout=compact&langs_count=7&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A"/>
 </div>
 
 ## About Me
