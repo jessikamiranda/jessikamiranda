@@ -6,8 +6,9 @@
 </div>-->
 
 ## About Me
-Tenho 17 anos e curso técnico em Desenvolvimento de Sistemas na ETEC Ermelinda Giannini Teixeira.<br>
-Estudo para me tornar uma desenvolvedora web e mobile e amo o mundo do design de interfaces.
+Tenho 17 anos e sou técnico em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira.<br>
+Atualmente estou no início dos estudos em JavaScript e React, visando me tornar uma desenvolvedora web e mobile.
+Amo o mundo do design de interfaces.
 
 ## Technologies
 - Front-End com HTML, CSS, React Native
