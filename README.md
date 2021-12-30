@@ -15,11 +15,11 @@ Amo o mundo do design de interfaces.
 - UI Design com Figma
 
 #### Languages and Tools:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code> 
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174874.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+<code><img alt="HTML" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img alt="CSS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img alt="React Native" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code> 
+<code><img alt="Trello" height="25" src="https://cdn-icons-png.flaticon.com/512/174/174874.png"></code>
+<code><img alt="Figma" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 
 
 
