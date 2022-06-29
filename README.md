@@ -6,12 +6,12 @@
 </div>-->
 
 ## About Me
-Tenho 17 anos e sou técnica em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira.<br>
-Atualmente estou no início dos estudos em JavaScript e React, visando me tornar uma desenvolvedora web e mobile.<br>
+Tenho 18 anos e sou técnica em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira.<br>
+Atualmente estou no início dos estudos em JavaScript e React, visando me tornar uma desenvolvedora frontend.<br>
 Amo o mundo do design de interfaces.
 
 ## Technologies
-- Front-End com HTML, CSS, React Native
+- Front-End com HTML, CSS, React
 - UI Design com Figma
 
 #### Languages and Tools:
@@ -27,6 +27,5 @@ Amo o mundo do design de interfaces.
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/jessika-miranda/)
 - [E-mail](mailto:jeessika.miranda@gmail.com)
-- [Instagram Pessoal](https://www.instagram.com/jessikamiraanda/)
   
   ![Snake animation](https://github.com/jessikamiranda/jessikamiranda/blob/output/github-contribution-grid-snake.svg)
