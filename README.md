@@ -6,9 +6,7 @@
 </div>-->
 
 ## About Me
-Tenho 18 anos e sou técnica em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira.<br>
-Atualmente estou no início dos estudos em JavaScript e React, visando me tornar uma desenvolvedora frontend.<br>
-Amo o mundo do design de interfaces.
+Hi! I'm Jessika, I'm 18 years old and I live in Brazil! I'm passionate about technology and always looking for new challenges in which I can learn and exceed my expectations. Currently studying web development, working with UI Design and Front-end development with React.Ts.
 
 ## Technologies
 - Front-End com HTML, CSS, React
