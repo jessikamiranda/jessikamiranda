@@ -6,7 +6,7 @@
 </div>-->
 
 ## About Me
-Hi! I'm Jessika, I'm 18 years old and I live in Brazil! I'm passionate about technology and always looking for new challenges in which I can learn and exceed my expectations. Currently studying web development, working with UI Design and Front-end development with React.Ts.
+Hi! I'm Jessika and I live in Brazil! I'm passionate about technology and always looking for new challenges in which I can learn and exceed my expectations. Currently studying web development, working with UI Design and Front-end development with React.Ts.
 
 ## Technologies
 - Front-End com HTML, CSS, React
